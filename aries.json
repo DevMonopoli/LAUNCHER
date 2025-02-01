@@ -8,6 +8,6 @@
   "URL_ABOUT_FORUM": "https://forum.aries-rp.ru/?from=launcher",
   "URL_ABOUT_GROUP_VK": "https://vk.com/aries_mobile",
   "URL_ABOUT_GROUP_FREE_VK": "https://vk.com/aries_freedom",
-  "URL_NEWS_JSON": "https://launcher-cdn.aries-rp.ru/client/news_json.json",
-  "URL_MONITOR_JSON": "https://launcher-cdn.aries-rp.ru/client/monitor.php"
+  "URL_NEWS_JSON": "https://raw.githubusercontent.com/DevMonopoli/LAUNCHER/refs/heads/main/list.json",
+  "URL_MONITOR_JSON": "https://raw.githubusercontent.com/DevMonopoli/LAUNCHER/refs/heads/main/monitoring.json"
 }
